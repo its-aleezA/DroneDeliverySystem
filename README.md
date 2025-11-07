@@ -56,6 +56,12 @@ To run:
 
 ---
 
+## 📸 Demo
+
+![Demo GIF](images/drone-delivery-system-simulator-demo.gif)
+
+---
+
 ## 🤝 Collaborators
 
 This project was developed by **[Aleeza Rizwan](https://github.com/its-aleezA)** as a demonstration of:
